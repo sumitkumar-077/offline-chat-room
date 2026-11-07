@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+
+# Java / Spring Boot
+target/
+*.class
+
+# React / Node
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
